@@ -1,0 +1,31 @@
+main {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+#board {
+    border: 1px solid #000;
+    position: relative;
+    
+}
+
+aside {
+    font-size: 24px;
+}
+
+.form {
+    border: 1px solid #000;
+    padding: 15px;
+    font-size: 20px;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+#board {
+    border: 1px solid #000;
+    position: relative;
+    background-color: midnightblue;
+}
